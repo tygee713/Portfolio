@@ -348,6 +348,7 @@ input.text-input {
 	header {
 		background-color: #4aaaa5;
 		text-align: center;
+		position: static;
 	}
 	h1 {
 		display: inline;
